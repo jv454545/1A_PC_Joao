@@ -1,4 +1,16 @@
 body {
-    background-color: yellow;
-    color: goldenrod;
+    background-color: black;
+    color: red;
+    font-family: "Caprasimo", serif;
+
+}
+
+header{
+    font-size: 50px;
+}
+h1 {
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
 }
