@@ -7,6 +7,10 @@ body {
 
 header{
     font-size: 50px;
+    border-bottom: double 5px red;
+    padding: 50px;
+    text-align: center;
+    color: red;
 }
 h1 {
     font-size: 30px;
