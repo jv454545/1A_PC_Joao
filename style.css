@@ -18,3 +18,11 @@ h1 {
 p{
     font-size: 20px;
 }
+section{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 30px;
+}
